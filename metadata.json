@@ -1,0 +1,9 @@
+{
+  "name": "FORME Agency",
+  "description": "A high-end creative agency specializing in digital experiences, featuring an Editorial Noir aesthetic.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
